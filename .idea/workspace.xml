@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3236d96c-467c-4aed-b4e6-151e576b930f" name="Changes" comment="working files of pycharmed projects too">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/lesson6/les6_step3_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/lesson6/les6_step3_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="283ppx2b8dcU2XHUJBd70B74pyC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunManager">
     <configuration name="Python tests in les6_step3_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="stepik" />
@@ -20,5 +48,55 @@
         <item itemvalue="Python tests.Python tests in les6_step3_test.py" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3236d96c-467c-4aed-b4e6-151e576b930f" name="Changes" comment="" />
+      <created>1650455310343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650455310343</updated>
+    </task>
+    <task id="LOCAL-00001" summary="chapter3 added">
+      <created>1650455422330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650455422330</updated>
+    </task>
+    <task id="LOCAL-00002" summary="working files of pycharmed projects">
+      <created>1650455489556</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650455489556</updated>
+    </task>
+    <task id="LOCAL-00003" summary="working files of pycharmed projects too">
+      <created>1650455500268</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650455500268</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chapter3 added" />
+    <MESSAGE value="working files of pycharmed projects" />
+    <MESSAGE value="working files of pycharmed projects too" />
+    <option name="LAST_COMMIT_MESSAGE" value="working files of pycharmed projects too" />
   </component>
 </project>
